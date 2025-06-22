@@ -1,0 +1,99 @@
+2025/05/27-23:42:09.985 34c4 Reusing MANIFEST C:\Users\ander\Documents\marmitex-ai\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/27-23:42:09.995 34c4 Recovering log #23
+2025/05/27-23:42:09.996 34c4 Reusing old log C:\Users\ander\Documents\marmitex-ai\.wwebjs_auth\session\Default\Local Storage\leveldb/000023.log 
+2025/05/28-02:18:01.336 4de8 Level-0 table #27: started
+2025/05/28-02:18:01.342 4de8 Level-0 table #27: 15023 bytes OK
+2025/05/28-02:18:01.344 4de8 Delete type=0 #23
+2025/05/28-02:18:01.345 4de8 Compacting 4@0 + 1@1 files
+2025/05/28-02:18:01.412 4de8 Generated table #28@0: 30 keys, 3242 bytes
+2025/05/28-02:18:01.412 4de8 Compacted 4@0 + 1@1 files => 3242 bytes
+2025/05/28-02:18:01.412 4de8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/28-02:18:01.413 4de8 Delete type=2 #17
+2025/05/28-02:18:01.414 4de8 Delete type=2 #19
+2025/05/28-02:18:01.414 4de8 Delete type=2 #21
+2025/05/28-02:18:01.415 4de8 Delete type=2 #24
+2025/05/28-02:18:01.415 4de8 Delete type=2 #27
+2025/05/28-03:34:21.834 4048 Level-0 table #30: started
+2025/05/28-03:34:21.845 4048 Level-0 table #30: 14154 bytes OK
+2025/05/28-03:34:21.848 4048 Delete type=0 #26
+2025/05/28-04:50:32.674 35a8 Level-0 table #32: started
+2025/05/28-04:50:32.726 35a8 Level-0 table #32: 13965 bytes OK
+2025/05/28-04:50:32.808 35a8 Delete type=0 #29
+2025/05/28-06:07:17.396 2fd4 Level-0 table #34: started
+2025/05/28-06:07:17.405 2fd4 Level-0 table #34: 13992 bytes OK
+2025/05/28-06:07:17.410 2fd4 Delete type=0 #31
+2025/05/28-07:23:38.976 3a58 Level-0 table #36: started
+2025/05/28-07:23:38.988 3a58 Level-0 table #36: 13951 bytes OK
+2025/05/28-07:23:38.991 3a58 Delete type=0 #33
+2025/05/28-07:23:38.993 1bdc Compacting 4@0 + 1@1 files
+2025/05/28-07:23:39.047 1bdc Generated table #37@0: 31 keys, 3371 bytes
+2025/05/28-07:23:39.047 1bdc Compacted 4@0 + 1@1 files => 3371 bytes
+2025/05/28-07:23:39.047 1bdc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/28-07:23:39.048 1bdc Delete type=2 #28
+2025/05/28-07:23:39.048 1bdc Delete type=2 #30
+2025/05/28-07:23:39.049 1bdc Delete type=2 #32
+2025/05/28-07:23:39.049 1bdc Delete type=2 #34
+2025/05/28-07:23:39.049 1bdc Delete type=2 #36
+2025/05/28-08:39:52.656 3300 Level-0 table #39: started
+2025/05/28-08:39:52.668 3300 Level-0 table #39: 13900 bytes OK
+2025/05/28-08:39:52.672 3300 Delete type=0 #35
+2025/05/28-09:56:35.152 4d84 Level-0 table #41: started
+2025/05/28-09:56:35.158 4d84 Level-0 table #41: 14024 bytes OK
+2025/05/28-09:56:35.161 4d84 Delete type=0 #38
+2025/05/28-11:12:59.185 43d4 Level-0 table #43: started
+2025/05/28-11:12:59.191 43d4 Level-0 table #43: 13939 bytes OK
+2025/05/28-11:12:59.193 43d4 Delete type=0 #40
+2025/05/28-12:29:12.533 42fc Level-0 table #45: started
+2025/05/28-12:29:12.538 42fc Level-0 table #45: 13948 bytes OK
+2025/05/28-12:29:12.542 42fc Delete type=0 #42
+2025/05/28-12:29:12.543 42fc Compacting 4@0 + 1@1 files
+2025/05/28-12:29:12.604 42fc Generated table #46@0: 31 keys, 3371 bytes
+2025/05/28-12:29:12.605 42fc Compacted 4@0 + 1@1 files => 3371 bytes
+2025/05/28-12:29:12.606 42fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/28-12:29:12.606 42fc Delete type=2 #37
+2025/05/28-12:29:12.606 42fc Delete type=2 #39
+2025/05/28-12:29:12.607 42fc Delete type=2 #41
+2025/05/28-12:29:12.607 42fc Delete type=2 #43
+2025/05/28-12:29:12.607 42fc Delete type=2 #45
+2025/05/28-14:28:25.645 1ba0 Level-0 table #48: started
+2025/05/28-14:28:25.740 1ba0 Level-0 table #48: 14163 bytes OK
+2025/05/28-14:28:25.834 1ba0 Delete type=0 #44
+2025/05/28-16:58:27.944 3540 Level-0 table #50: started
+2025/05/28-16:58:28.168 3540 Level-0 table #50: 14195 bytes OK
+2025/05/28-16:58:28.312 3540 Delete type=0 #47
+2025/05/28-18:15:01.083 4634 Level-0 table #52: started
+2025/05/28-18:15:01.095 4634 Level-0 table #52: 13913 bytes OK
+2025/05/28-18:15:01.099 4634 Delete type=0 #49
+2025/05/28-20:38:44.120 47ec Level-0 table #54: started
+2025/05/28-20:38:44.243 47ec Level-0 table #54: 14092 bytes OK
+2025/05/28-20:38:44.254 47ec Delete type=0 #51
+2025/05/28-20:38:44.259 47ec Compacting 4@0 + 1@1 files
+2025/05/28-20:38:44.551 47ec Generated table #55@0: 31 keys, 3371 bytes
+2025/05/28-20:38:44.551 47ec Compacted 4@0 + 1@1 files => 3371 bytes
+2025/05/28-20:38:44.557 47ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/28-20:38:44.560 47ec Delete type=2 #46
+2025/05/28-20:38:44.562 47ec Delete type=2 #48
+2025/05/28-20:38:44.565 47ec Delete type=2 #50
+2025/05/28-20:38:44.568 47ec Delete type=2 #52
+2025/05/28-20:38:44.568 47ec Delete type=2 #54
+2025/05/28-22:14:52.742 37d0 Level-0 table #57: started
+2025/05/28-22:14:52.758 37d0 Level-0 table #57: 14293 bytes OK
+2025/05/28-22:14:52.761 37d0 Delete type=0 #53
+2025/05/30-00:44:10.716 5848 Level-0 table #59: started
+2025/05/30-00:44:10.865 5848 Level-0 table #59: 15099 bytes OK
+2025/05/30-00:44:10.996 5848 Delete type=0 #56
+2025/05/30-02:00:42.372 5d58 Level-0 table #61: started
+2025/05/30-02:00:42.384 5d58 Level-0 table #61: 13918 bytes OK
+2025/05/30-02:00:42.388 5d58 Delete type=0 #58
+2025/05/30-03:16:48.658 1470 Level-0 table #63: started
+2025/05/30-03:16:48.664 1470 Level-0 table #63: 13930 bytes OK
+2025/05/30-03:16:48.671 1470 Delete type=0 #60
+2025/05/30-03:16:48.673 1470 Compacting 4@0 + 1@1 files
+2025/05/30-03:16:48.763 1470 Generated table #64@0: 32 keys, 3406 bytes
+2025/05/30-03:16:48.763 1470 Compacted 4@0 + 1@1 files => 3406 bytes
+2025/05/30-03:16:48.763 1470 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/30-03:16:48.765 1470 Delete type=2 #55
+2025/05/30-03:16:48.765 1470 Delete type=2 #57
+2025/05/30-03:16:48.766 1470 Delete type=2 #59
+2025/05/30-03:16:48.766 1470 Delete type=2 #61
+2025/05/30-03:16:48.766 1470 Delete type=2 #63
